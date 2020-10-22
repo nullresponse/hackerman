@@ -1,2 +1,2 @@
 # hackerman
-very interesting project where i learn to code
+i dont know how to code or hack please help
