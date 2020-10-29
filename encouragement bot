@@ -1,0 +1,18 @@
+#what to code help pls
+#maybe an Encouragement Bot?
+
+#input feeling
+feeling=str(input("How are you feeling today? sad/happy/angry/normal"))
+while True:
+#all possible combinations
+  if feeling = "sad":
+    print("insert-encouragement-here")
+  elif feeling = "happy":
+    print("insert-encouragement-here")
+  elif feeling = "angry":
+    print("insert-encouragement-here")
+  elif feeling = "normal":
+    print("insert-encouragement-here")
+  else:
+    print("I didn't quite get that, why don't you try again?")
+  
